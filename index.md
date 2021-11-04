@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/emilylauth/Eye-Exercise/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Eye Exercise
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+"You’ll create a web page with two eyes that follow your mouse movement. This activity will require you to bring together your skills in JavaScript and CSS to create this dynamic experience."
+## Roadmap
 
-### Markdown
+I don't have plans to revisit this project as of now.
+## License
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[MIT](https://choosealicense.com/licenses/mit/)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emilylauth/Eye-Exercise/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<img src="2eyes-ss.png" width='300'/>
